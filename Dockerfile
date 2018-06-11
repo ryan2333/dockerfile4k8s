@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/etcd-amd64:2.2.5
+FROM gcr.io/google_containers/kubernetes-dashboard-amd64:1.8.3
 MAINTAINER zhaoyh
