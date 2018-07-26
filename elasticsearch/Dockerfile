@@ -1,2 +1,2 @@
-FROM gcr.io/google-containers/elasticsearch:v6.2.5
+FROM gcr.io/google-containers/elasticsearch:v5.6.4
 MAINTAINER zhaoyh
